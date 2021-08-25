@@ -1,5 +1,7 @@
 # DeepVLSM
 
+Will upload the code soon...
+
 ---
 
 ## References
@@ -18,3 +20,6 @@
    * https://www.frontiersin.org/articles/10.3389/fninf.2020.611666/full
    * https://arxiv.org/pdf/1506.06579.pdf
    * https://www.sciencedirect.com/science/article/pii/S1051200417302385
+   * https://analyticsindiamag.com/lets-not-stop-at-back-prop-check-out-5-alternatives-to-this-popular-deep-learning-technique/
+   * 1-D convolution at the end
+   * 3-d Adaptive Histogram Equalization.
