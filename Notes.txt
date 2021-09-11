@@ -2,6 +2,8 @@ https://towardsdatascience.com/step-by-step-implementation-3d-convolutional-neur
 
 https://keras.io/examples/vision/3D_image_classification/
 
+https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
+
 https://www.kaggle.com/broach/trends-working-with-fmri-component-maps
 
 https://www.kaggle.com/saife245/neuroimaging-in-depth-understanding-eda-model
